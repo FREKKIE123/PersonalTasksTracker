@@ -1,0 +1,10 @@
+{
+  "description": "A private, minimal dashboard for tracking career progress, forex trades, certifications, goals, calendar events, and reminders with secure login.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
